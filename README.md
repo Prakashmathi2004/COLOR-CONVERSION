@@ -115,26 +115,33 @@ cv2.destroyAllWindow()
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
-<br>
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/8dc7d6d1-cda7-489b-a30a-20bf8884e6f5)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/56c2a85c-0852-4952-ac22-8a85f7df56c4)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/b398319b-a020-4d12-b831-6b09058a7bbe)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/30553013-8505-4c7c-8d1e-750499781408)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/e46ae5c9-75ca-41ec-adf3-d9fdf3797818)
 
 ### ii) HSV to RGB and BGR
-<br>
-<br>
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/d30831b0-cb17-4762-a65f-90611676e141)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/2452f0b9-620d-44c3-a6ed-2dac09e60282)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/0c3a524a-8628-40e6-be47-194c0bd83916)
 
 ### iii) RGB and BGR to YCrCb
-<br>
-<br>
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/6908a373-9728-47d8-8ebe-077473795119)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/f7a90b01-8faa-4a22-8c16-690fac39db17)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/cf2c5e47-f67d-470d-8721-6f6a99fd695f)
 
 ### iv) Split and merge RGB Image
-<br>
-<br>
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/f006398f-385a-46d0-833f-0921ca7e8b0a)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/3133c54d-534c-4231-bdae-2fa78c409df8)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/1b538ba5-bb8a-483c-a713-481ebf5e4d10)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/d9fcbb78-7172-4ade-97c8-d92143e7acb2)
 
 ### v) Split and merge HSV Image
-
 <img width="722" alt="image" src="https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/e4575414-10fe-48ea-b9f4-f1729f3155a9">
-
-
+<img width="719" alt="image" src="https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/a24de93e-a892-4c6e-8a8d-bd77dcb32b8b">
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/220b5e5f-9f0a-4e3d-9d39-380dc38b0b95)
+![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/d5849440-581f-4dd2-8981-f060f2c158e8)
 
 
 ## Result:
