@@ -28,7 +28,7 @@ Output the image using cv2.imshow("OUTPUT", image).
 ```
 import cv2
 houseImage = cv2.imread('ben.jpg')
-cv2.imshow('212222100033_PRAKASH',houseImage)
+cv2.imshow('212222100035_PRAKASH',houseImage)
 hsvImage = cv2.cvtColor(houseImage,cv2.COLOR_BGR2HSV)
 cv2.imshow('BGR2HSV',hsvImage)
 hsvImage1=cv2.cvtColor(houseImage,cv2.COLOR_RGB2HSV)
@@ -41,10 +41,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-
-
-
-
 # ii)Convert HSV to RGB and BGR
 ```
 import cv2
