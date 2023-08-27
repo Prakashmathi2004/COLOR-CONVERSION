@@ -140,8 +140,12 @@ cv2.destroyAllWindow()
 ### v) Split and merge HSV Image
 <img width="722" alt="image" src="https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/e4575414-10fe-48ea-b9f4-f1729f3155a9">
 <img width="719" alt="image" src="https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/a24de93e-a892-4c6e-8a8d-bd77dcb32b8b">
-![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/220b5e5f-9f0a-4e3d-9d39-380dc38b0b95)
-![image](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/d5849440-581f-4dd2-8981-f060f2c158e8)
+
+![im53](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/944beb07-2ed0-49cd-a0c4-96b88ad38d39)
+
+![im54](https://github.com/Prakashmathi2004/COLOR-CONVERSION/assets/118350045/dcdeec7f-1285-495b-9daf-3754c5326fde)
+
+
 
 
 ## Result:
